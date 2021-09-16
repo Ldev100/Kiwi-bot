@@ -15,11 +15,6 @@ const bot = new Aoijs.Bot({
 bot.onMessage()
 bot.loadCommands(`./commands/`) //Allows Commands executed by `commands` folder
 
-bot.command({
-  name: "ping",
-  code: `$pingms`
-})
-
 //vereabes
       
 bot.variables({

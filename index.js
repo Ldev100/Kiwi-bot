@@ -18,7 +18,8 @@ bot.loadCommands(`./commands/`) //Allows Commands executed by `commands` folder
 //vereabes
       
 bot.variables({
- par: "https://media.discordapp.net/attachments/887798469832605750/888174687824269322/standard.gif" 
+ par: "https://media.discordapp.net/attachments/887798469832605750/888174687824269322/standard.gif",
+cor: "303136"
   })
   
   

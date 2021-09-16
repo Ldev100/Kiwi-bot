@@ -1,1 +1,2 @@
-# Templete (entre)[https://dsc.gg/astrogg]
+# Templete 
+(entre)[https://dsc.gg/astrogg]
